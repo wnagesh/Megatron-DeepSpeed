@@ -1,3 +1,10 @@
+# Megatron-Deepspeed - On Premise Exection 
+
+## Cluster Information
+    Workload Manager : Slurm 
+    Container Runtim  : Enroot + PyXis
+    Worker Nodes : 20 X Nvidia DGX A100-80 GB
+
 ## Latest News
 * [2023/07] Synced with [upstream](https://github.com/NVIDIA/Megatron-LM) over 1k commits, see [rebase folder for more details](https://github.com/microsoft/Megatron-DeepSpeed/tree/main/examples_deepspeed/rebase) in terms of features and updated performance.
 
